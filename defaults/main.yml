@@ -1,0 +1,3 @@
+postgresql_name: ansible
+postgresql_user: ansible
+postgresql_password: ansible
